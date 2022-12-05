@@ -1,0 +1,5 @@
+osperdidos.py
+Integrantes = Pedro, Deyverson, Roxanny, Eliete
+https://replit.com/@Pedro27Z/aula9#main.py # verificar letra na palavra
+https://replit.com/@Pedro27Z/Verificarmcdu#main.py # verificar milhar, centena, dezena , unidade
+https://replit.com/@Pedro27Z/Senha#main.py # verificar senha
